@@ -21,7 +21,7 @@ public class Login_TestClass  extends BaseClass_OpenMRS{
 	LG.SetPassword(PassWord);
     logger.info("password");
 
-
+//confirm password 
 	LG.Wardclick();
 	
 
