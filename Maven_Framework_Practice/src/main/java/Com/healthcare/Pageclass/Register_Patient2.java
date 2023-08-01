@@ -7,9 +7,9 @@ import org.openqa.selenium.support.ui.Select;
 
 import Com.healthcare.Baseclass.BaseClass_OpenMRS;
 
-public class Register_Patient extends BaseClass_OpenMRS {
+public class Register_Patient2 extends BaseClass_OpenMRS {
 
-	public Register_Patient() {
+	public Register_Patient2() {
 
 		PageFactory.initElements(driver, this);
 

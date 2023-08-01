@@ -12,6 +12,8 @@ public class Register_PatientTestclass extends BaseClass_OpenMRS{
 	@Test
 	public void Enroll_Patient() throws InterruptedException {
 		
+		System.out.println("New Updation in new_repo98");
+		
 		Login_MRS LG= new Login_MRS(); // Created the object of the 
 		
 		LG.Setusername("Admin");
