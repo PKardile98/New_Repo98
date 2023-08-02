@@ -77,7 +77,7 @@ public class Register_Patient extends BaseClass_OpenMRS {
 	public void Click_Register() {
 
 		Register1.click();
-		System.out.println("New Updation in new_repo98");
+		
 		
 	}
 
