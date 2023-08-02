@@ -78,11 +78,13 @@ public class Register_Patient3 extends BaseClass_OpenMRS {
 
 		Register1.click();
 		System.out.println("New Updation in new_repo98");
+		
 	}
 
 	public void First_Name(String F_Name) {
 
 		Name.sendKeys(F_Name);
+		System.out.println("New Commits in new_repo98");
 		
 	}
 
