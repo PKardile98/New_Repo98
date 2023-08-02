@@ -1,8 +1,9 @@
 package Com.healthcare.Testclass;
 
 import static org.testng.Assert.assertTrue;
-
-
+//-------------------------------------
+//
+//-------------------------------------
 import java.io.IOException;
 import java.util.logging.Logger;
 
@@ -25,7 +26,10 @@ public class TC_LoginTest_Data extends BaseClass_OpenMRS {
 			Login_MRS LG= new Login_MRS(); // Created the obj
 		
 			LG.Setusername(User);
-			//logger.info("Enter username");
+			//1>logger.info("Enter username");
+			//2>logger.info("Enter username");
+			//3>logger.info("Enter username");
+			//4>logger.info("Enter username");
 			
 			LG.SetPassword(Pass);
 			//logger.info("Enter password");
