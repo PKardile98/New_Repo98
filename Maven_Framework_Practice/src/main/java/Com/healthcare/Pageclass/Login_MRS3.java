@@ -6,11 +6,11 @@ import org.openqa.selenium.support.PageFactory;
 
 import Com.healthcare.Baseclass.BaseClass_OpenMRS;
 
-public class Login_MRS extends BaseClass_OpenMRS {
+public class Login_MRS3 extends BaseClass_OpenMRS {
 
 	
 
-	public Login_MRS() {
+	public Login_MRS3() {
 
 		PageFactory.initElements(driver, this);
 	}
